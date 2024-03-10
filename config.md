@@ -9,6 +9,6 @@ git config --global user.name "YourNickName"
 ```
 Кроме того, командой ```git config``` можно изменить адрес электронной почты, привязанной к вашим коммитам _Git_:
 ```bash=
-git config --global user.email "YorEmail@dev.com"
+git config --global user.email "YourEmail@dev.com"
 ```
 Введенные в описаных выше командах данные будут отображаться во всех ваших последующих коммитах.

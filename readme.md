@@ -6,7 +6,7 @@ LICENCE: [MIT](./licence.md)
 ---
 
 ### Содержание: 
-1. [git condif](./config.md)
+1. [git config](./config.md)
 2. [git init](./init.md)
 3. [git add](./add.md) 
 4. 
