@@ -9,7 +9,7 @@ LICENCE: [MIT](./licence.md)
 1. [git config](./config.md)
 2. [git init](./init.md)
 3. [git add](./add.md) 
-4. 
+4. [git status](./status.md)
 5. 
 6. 
 7. 
