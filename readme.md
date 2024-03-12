@@ -10,7 +10,7 @@ LICENCE: [MIT](./licence.md)
 2. [git init](./init.md)
 3. [git add](./add.md) 
 4. [git commit](./commit.md)
-5. [git revert](./revert.md)
+5. [git revert и git reset](./revert.md)
 6. [Информация о состоянии репозитория](./status.md)
 7. [Работа с удаленным репозиторием](./push.md)
 ---
